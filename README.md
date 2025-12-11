@@ -1,4 +1,4 @@
-Este é um projeto modelo usado para prática do curso de Git / GitHub. Não foi criado por mim, é apenas um copy-paste para trabalhar as funcionalidades das ferramentas.
+Este é um projeto modelo usado para minha prática do curso de Git / GitHub. Não foi criado por mim, é apenas um copy-paste para trabalhar as funcionalidades das ferramentas.
 _________________________________________________________________________________________________________________________________________________________________________________
 <h1>Jogo do número secreto</h1>
 
